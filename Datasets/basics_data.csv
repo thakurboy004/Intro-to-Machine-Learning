@@ -1,0 +1,15 @@
+F1,F2,F3,F4,F5,F6,Country,Color,Target
+0,1,2,3,4,5,IND,red,Male
+1,2,3,4,5,6,UK,red,Male
+2,3,4,5,6,7,IND,red,Male
+3,4,5,6,7,8,UK,red,Male
+4,5,6,7,8,9,IND,green,Male
+5,6,7,8,9,10,UK,green,Male
+6,7,8,9,10,11,IND,green,Male
+7,8,9,,11,12,UK,green,Female
+8,9,10,,12,13,IND,green,Female
+9,10,11,12,13,14,UK,green,Female
+10,11,12,13,,15,IND,blue,Female
+11,12,13,14,,16,UK,blue,Female
+12,13,14,15,16,17,IND,blue,Female
+13,14,15,16,17,18,UK,blue,Female
